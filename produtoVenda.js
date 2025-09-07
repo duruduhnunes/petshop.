@@ -4,14 +4,14 @@ template: ` <div class="col-sm-6 col-lg-4 all pasta">
 <div class="box">
   <div>
     <div class="img-box">
-      <img src="images/db.png" alt="">
+      <img src="images/shampoo.png" alt="">
     </div>
     <div class="detail-box">
       <h5>
-        Dragon Ball Z
+        Shampoo Premium Pet
       </h5>
       <p>
-        Goku, Vegita, Gohan, Gotem, Shenlong
+        Shampoo especial para pelos sedosos e brilhantes
       </p>
       <div class="options">
         <h6>
